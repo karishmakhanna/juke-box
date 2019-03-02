@@ -1,3 +1,3 @@
 # juke-box
 
-HFH 2019 Repository (Karishma) :dancer: :happy:
+HFH 2019 Repository (Karishma) :dancer:
